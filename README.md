@@ -1,7 +1,7 @@
 # next.js-tailwind-restaurant-menu
 A Digital Restaurant Menu with next.js and Tailwind CSS
 
-![Features](https://raw.githubusercontent.com/mojtabamoradli/next.js-tailwind-restaurant-menu/main/cover.png)
+![Cover](https://github.com/mojtabamoradli/next.js-tailwind-restaurant-menu/blob/main/Cover.png)
 
 # How to use
 ```diff
